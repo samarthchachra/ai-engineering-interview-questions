@@ -82,11 +82,11 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
   - Answer: Explained in this video: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk)
 - Inside ChatGPT: What Happens After You Hit Enter?
   - Answer: [Inside ChatGPT: What Happens After You Hit Enter](https://outcomeschool.substack.com/p/inside-chatgpt-what-happens-after)
-- What is the Transformer architecture and how does it work?
+- What is the Transformer architecture and how does it work? /\
   - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
-- What are the key components of the Transformer architecture?
+- What are the key components of the Transformer architecture? /\
   - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
-- Walk me through what happens, step by step, in one forward pass of a decoder-only Transformer.
+- Walk me through what happens, step by step, in one forward pass of a decoder-only Transformer. /\
   - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - What is tokenization in LLMs?
   - Answer: [Tokenization in LLMs](https://outcomeschool.com/blog/tokenization-in-llms) and [Tokenization in Large Language Models (LLMs)](https://www.youtube.com/watch?v=sK2s9I84EVI)
